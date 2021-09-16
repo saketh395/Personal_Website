@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -6,8 +6,8 @@ function App() {
     <div className="App">
        <div id="top_bar">
          <table>
-           <tr>
-           <th id="hd"><a href="https://github.com/saketh395" class="fa fa-github" title="Github"></a></th>
+           <tr>                         // eslint-disable-next-line
+           <th id="hd"><a href="https://github.com/saketh395" class="fa fa-github" title="Github"></a></th>// eslint-disable-next-line
            <th id="hd" color="black"><a href="https://www.linkedin.com/in/pagidala-saketh-reddy-31923918b" title="Linkedin" class="fa fa-linkedin"></a></th>
            <th id="hd"></th>
            <th id="hd"></th>
