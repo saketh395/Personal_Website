@@ -1,6 +1,142 @@
 .App {
   text-align: center;
+  color: #ADEFD1FF;
+  
+ 
 }
+#top_bar
+{
+  color:black;
+  width:100%;
+  height:50px;
+  background-color: white;
+  padding-bottom: 50px;
+  padding-top: 10px;
+  
+}
+
+#h
+{
+  width:12%;
+  color: black;
+}
+* {
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+  color: blue;
+}
+#pp
+{
+  width:200px;
+   height:250px;
+  border-radius: 50%;
+}
+#hd
+{
+  width:5%;
+}
+
+
+.right
+{
+  font-size: x-large;
+  font-style: oblique;
+  color: white;
+  width:100%;
+}
+
+.fa {
+  padding: 5px;
+  font-size: 25px;
+  width: 35px;
+  text-align: center;
+  border-radius: 50%;
+  text-decoration: none;
+}
+#edu
+{
+  padding: 60px;
+}
+
+#skill
+{
+  padding: 60px; 
+ 
+}
+#Project
+{
+  padding: 60px;
+}
+#cert
+{
+  padding: 30px;
+}
+#Acheive
+{
+  padding: 30px;
+}
+.fa-github {
+  background-color:black;
+  color:white;
+}
+.fa-linkedin {
+  background-color: rgb(68, 68, 202);
+  color:white;
+}
+#ctf
+{
+  color:white;
+  padding:10px;
+  height:50px;
+  width:30%;
+}
+#ach
+{
+  color:white;
+  padding:10px;
+  height:50px;
+  width:15%;
+}
+#proj
+{
+  color:white;
+  padding:10px;
+  height:50px;
+  width:33%;
+}
+#projdes
+{
+  text-align: left;
+  color:white;
+  padding:10px;
+  height:50px;
+  width:33%;
+}
+
+.sk
+{
+  color: white;
+  padding:10px;
+  height:50px;
+  width:25%;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 10px;
+}
+.column
+{
+  float: left;
+  padding: 10px;
+  height: 280px;
+}
+#ed
+{
+  color:whitesmoke;
+  width:33.33%;
+}
+
+
 
 .App-logo {
   height: 40vmin;
@@ -21,7 +157,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(184, 15, 206);
 }
 
 .App-link {
